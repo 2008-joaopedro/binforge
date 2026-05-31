@@ -1,6 +1,3 @@
-# binforge
-A Python tool for analyzing and highlighting magic bytes in binary files.
-
 # 🔬 BinForge v2.0.0
 ### Binary Magic Byte Forensics Engine
 
